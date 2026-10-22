@@ -1,0 +1,46 @@
+PAYDAY — PRODUCT LISTING DRAFT
+==============================
+
+Suggested launch price: EUR 3.99 one-time purchase (introductory test price).
+This is a suggested price, not a guarantee of sales or profit.
+
+PRODUCT TITLE
+Payday — Simple Budget Planner for Your Next Paycheck
+
+SHORT DESCRIPTION
+Know what you can safely spend today. Plan income, bills, everyday expenses and savings between paydays with a simple mobile-friendly budget app.
+
+FULL DESCRIPTION (ENGLISH)
+Your money has to last until payday. Payday helps you make a simple plan and see an estimated daily spending limit after your planned bills, logged spending and savings targets.
+
+WHAT'S INCLUDED
+- Mobile-friendly app that can be installed from a supported browser when hosted over HTTPS
+- Five interface languages: English, Bulgarian, Spanish, French and German
+- EUR, USD and GBP currency display
+- Last payday and next payday settings
+- Income and expense tracking
+- Planned bills, including paid/unpaid status
+- Savings goals and contributions
+- Estimated available balance and daily spending limit
+- Local data storage, with JSON backup and restore
+- Basic offline app shell after the app has been installed and opened online
+
+PLEASE READ BEFORE BUYING
+- This is a personal budgeting tool, not financial, tax or investment advice.
+- It does not connect to your bank or import transactions automatically.
+- Your budget data is stored in the browser on your device; there is no cloud sync or user account.
+- Clearing browser/site data may erase saved entries. Export backups regularly.
+- The app requires an internet connection for its first visit. Offline behavior depends on browser support and successful installation.
+- A purchase does not include a native App Store or Google Play listing.
+
+PERSONAL USE LICENSE
+One purchase grants the buyer a personal, non-transferable license to use the app. Redistribution, resale, sublicensing or sharing the product files publicly is not permitted.
+
+BULGARIAN SHORT DESCRIPTION
+Payday ти помага да планираш парите до следващата заплата — приходи, сметки, разходи и спестявания, с ориентировъчен дневен лимит.
+
+BULGARIAN BUYER NOTE
+Приложението не се свързва с банка. Данните се пазят локално в браузъра на устройството; няма профил или облачна синхронизация. Прави резервни копия. Payday е инструмент за планиране, а не финансов съвет.
+
+SELLER SETUP STILL REQUIRED
+Before accepting real orders, the seller must configure the payment/store account, payout destination, product delivery, seller identity, contact details, privacy information, refund/withdrawal policy and applicable tax/legal obligations. Do not claim the app is already live or that PayPal checkout is integrated until the store is configured and tested.
